@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icon/info.png</file>
+        <file>res/icon/open.png</file>
+        <file>res/icon/saveAs.png</file>
+        <file>res/icon/new_file_.png</file>
+        <file>res/icon/app_icon.png</file>
+        <file>res/fonts/Montserrat-Bold.ttf</file>
+        <file>res/fonts/Montserrat-Regular.ttf</file>
+        <file>res/fonts/Montserrat-SemiBold.ttf</file>
+        <file>res/style.qss</file>
+    </qresource>
+</RCC>

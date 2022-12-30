@@ -1,0 +1,11 @@
+QSpinBox {background-color: rgb(228, 227, 231); border-radius: 10px; padding: 5px 15px 5px 10px;}
+QInputDialog {background-color: rgb(255, 255, 255);}
+QInputDialog QPushButton { background-color: rgb(228, 227, 231); border-radius: 10px; padding: 5px 15px 5px 15px;}
+QInputDialog QPushButton:hover { background-color: rgb(185, 185, 185); }
+QInputDialog QPushButton:pressed {background-color: rgb(228, 227, 231);}
+
+
+QMessageBox {background-color: rgb(255, 255, 255);}
+QMessageBox QPushButton { background-color: rgb(228, 227, 231); border-radius: 10px; padding: 5px 15px 5px 15px;}
+QMessageBox QPushButton:hover { background-color: rgb(185, 185, 185); }
+QMessageBox QPushButton:pressed {background-color: rgb(228, 227, 231);}
