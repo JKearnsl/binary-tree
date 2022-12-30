@@ -1,5 +1,7 @@
 # binary-tree
-Binary Tree Search with UI
+Binary Tree Search with UI 
+
+using Qt
 
 ![image](https://user-images.githubusercontent.com/76239707/179830144-917aa1a7-b43b-497f-8c3b-5350a708b74c.png)
 
