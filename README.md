@@ -1,7 +1,8 @@
-# binary-tree
-Binary Tree Search with UI 
+# Бинарное дерево поиска
 
-using Qt
+Бинарное дерево поиска с пользовательским интерфейсом
+
+Использован фреймворк QT
 
 ![image](https://user-images.githubusercontent.com/76239707/179830144-917aa1a7-b43b-497f-8c3b-5350a708b74c.png)
 
