@@ -1,2 +1,3 @@
-# binary-tree
-Binary Tree Search with UI
+# Бинарное дерево поиска
+
+Бинарное дерево поиска просто класс
